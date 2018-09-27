@@ -1,1 +1,9 @@
-# Empty CSS file for your own CSS
+@font-face {
+	font-family: "Fjalla One Regular"
+	src: url("fonts/fjallaone_regular.ttf")
+	src: 
+	url("fonts/fjallaone_regular.ttf") format("ttf");
+}
+h2 {
+    font-family: "fjallaone_regular", Fjalla, regular;
+}
